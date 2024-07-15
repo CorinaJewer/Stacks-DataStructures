@@ -1,3 +1,3 @@
 Assignment - Data Structures Class  
- - Complete all Stack methods with an Array and LinkedList
- - Complete Palindrome Word Check
+ - Implement a Stack data structure using both an Array & Linked List
+ - Complete Palindrome Word Check using a Stack data structure
